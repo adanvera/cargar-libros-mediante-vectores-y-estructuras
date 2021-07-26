@@ -10,8 +10,6 @@ El usuario debe ingresar el tamaño de la lista N y según eso dimensionar el ar
 dinámica (usando malloc, calloc, etc). Finalmente debe imprimirse en pantalla el listado de
 libros ingresados.
 
-Gustavo Adán Vera Villalba
-C.I.N° 2.231.937
 */
 
 
